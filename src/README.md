@@ -1,16 +1,18 @@
-# OceanGuard - Blue Carbon MRV Platform
+# AquaCredZZ - Blue Carbon MRV Platform
 
 A comprehensive blockchain-powered platform for Monitoring, Reporting, and Verification (MRV) of blue carbon ecosystems, built with React and featuring three distinct interfaces for different user types.
 
 ## ✨ Key Features
 
 ### 🌊 Oceanic Design System
+
 - **Ultra-clean, modern interface** with sophisticated oceanic color palette
 - **Deep ocean blues**, serene aqua greens, sandy neutrals, and coral accents
 - **Neo-brutalist data visualization** for critical information hierarchy
 - **Soft shadows, subtle gradients, and rounded corners** throughout
 
 ### 📱 Field App (Mobile-First)
+
 - **Comprehensive onboarding flow** with blockchain DID authentication
 - **Advanced gamification system** with R-Score reputation, tokens, and achievements
 - **Offline-first data collection** with automatic sync capabilities
@@ -18,6 +20,7 @@ A comprehensive blockchain-powered platform for Monitoring, Reporting, and Verif
 - **Progressive achievement system** with tiers, badges, and rewards
 
 ### 🌐 Public Portal (Responsive Web)
+
 - **Living satellite map** with interactive time-series visualization
 - **Outcome-based financing meters** showing real project funding progress
 - **Blockchain transparency dashboard** with DID verification system
@@ -25,6 +28,7 @@ A comprehensive blockchain-powered platform for Monitoring, Reporting, and Verif
 - **Tokenized carbon credits** marketplace integration
 
 ### 🛡️ Admin Dashboard (Desktop/Tablet)
+
 - **Comprehensive sidebar navigation** with real-time status indicators
 - **Neo-brutalist metrics display** for critical data visualization
 - **Advanced verification workflow** with geospatial context and audit trails
@@ -43,21 +47,27 @@ A comprehensive blockchain-powered platform for Monitoring, Reporting, and Verif
 ## 🎯 User Interfaces
 
 ### 1. Field App Interface
+
 Perfect for NGOs, communities, and field workers:
+
 - Mobile-optimized data collection
 - Gamified contribution system
 - Offline capability with sync
 - Reputation-based rewards
 
 ### 2. Public Portal Interface
+
 Designed for donors, stakeholders, and the public:
+
 - Transparent project showcasing
 - Real-time impact visualization
 - Outcome-based financing tracking
 - Community story integration
 
 ### 3. Admin Dashboard Interface
+
 Built for NCCR (National Centre for Coastal Research):
+
 - Data verification workflows
 - User and DID management
 - Carbon credit operations
@@ -66,6 +76,7 @@ Built for NCCR (National Centre for Coastal Research):
 ## 🌟 Enhanced Features
 
 ### Advanced Gamification
+
 - **R-Score reputation system** with detailed breakdowns
 - **Achievement badges** and tier progression
 - **Token staking** with APY rewards
@@ -73,6 +84,7 @@ Built for NCCR (National Centre for Coastal Research):
 - **Streak tracking** and bonus multipliers
 
 ### Blockchain Integration
+
 - **Decentralized Identity (DID)** authentication
 - **Smart contract** automation for carbon credits
 - **Immutable data** verification and audit trails
@@ -80,6 +92,7 @@ Built for NCCR (National Centre for Coastal Research):
 - **Disaster resilience** adjustments via blockchain
 
 ### Interactive Visualizations
+
 - **Time-series satellite imagery** with animation controls
 - **Neo-brutalist charts** for critical metrics
 - **Real-time project health** mapping
@@ -107,4 +120,4 @@ The application follows a **mobile-first, blockchain-powered** design approach t
 
 ---
 
-*Built for the future of ocean conservation and blue carbon management.*
+_Built for the future of ocean conservation and blue carbon management._

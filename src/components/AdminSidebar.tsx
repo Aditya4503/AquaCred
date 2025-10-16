@@ -89,18 +89,18 @@ export function AdminSidebar({ activeTab, onTabChange }: AdminSidebarProps) {
   return (
     <div className="w-64 bg-white border-r border-gray-200 h-full flex flex-col">
       {/* Logo */}
-      <div className="p-6 border-b border-gray-200">
+      {/* <div className="p-6 border-b border-gray-200">
         <div className="flex items-center space-x-3">
           <div className="relative">
             <Waves className="h-8 w-8 text-primary" />
             <Leaf className="h-4 w-4 text-green-600 absolute -top-1 -right-1" />
           </div>
           <div>
-            <h1 className="text-lg font-semibold text-foreground">AquaCred</h1>
+            <h1 className="text-lg font-semibold text-foreground">AquaCredZ</h1>
             <p className="text-xs text-muted-foreground">NCCR Admin Portal</p>
           </div>
         </div>
-      </div>
+      </div> */}
 
       {/* Main Navigation */}
       <div className="flex-1 py-6">

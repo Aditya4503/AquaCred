@@ -246,7 +246,7 @@ export function PublicPortal() {
         <div className="relative z-20 flex items-center justify-center h-full">
           <div className="text-center text-white max-w-4xl px-6">
             <h1 className="text-6xl font-bold mb-6">
-              AquaCred
+              AquaCredZ
               <span className="block text-3xl font-normal text-blue-200 mt-2">
                 National Blue Carbon Registry
               </span>

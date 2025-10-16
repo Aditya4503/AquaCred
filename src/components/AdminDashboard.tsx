@@ -366,7 +366,7 @@ export function AdminDashboard() {
             <div className="mb-8">
               <h1 className="text-3xl font-bold text-foreground flex items-center mb-2">
                 <Shield className="mr-3 h-6 w-6 text-coral-accent" />
-                AquaCred Admin Dashboard
+                AquaCredZ Admin Dashboard
               </h1>
               <p className="text-muted-foreground">
                 National Centre for Coastal Research • Real-time monitoring & verification
@@ -1607,7 +1607,7 @@ export function AdminDashboard() {
                 <HelpCircle className="mr-3 h-6 w-6 text-blue-600" />
                 Help & Support
               </h1>
-              <p className="text-muted-foreground">Get help and support for the AquaCred platform</p>
+              <p className="text-muted-foreground">Get help and support for the AquaCredZ platform</p>
             </div>
 
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
@@ -1683,7 +1683,7 @@ export function AdminDashboard() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4 text-sm">
                   <div>
                     <p className="text-muted-foreground">Platform Version</p>
-                    <p className="font-medium">AquaCred v2.1.4</p>
+                    <p className="font-medium">AquaCredZ v2.1.4</p>
                   </div>
                   <div>
                     <p className="text-muted-foreground">Last Update</p>

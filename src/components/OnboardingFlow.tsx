@@ -66,7 +66,7 @@ export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
               <Leaf className="h-8 w-8 text-green-300 absolute -top-2 -right-2 bg-white/20 rounded-full p-1" />
               <Link className="h-6 w-6 text-orange-300 absolute bottom-2 left-2 bg-white/20 rounded-full p-1" />
             </div>
-            <h1 className="text-5xl font-bold mb-2">OceanGuard</h1>
+            <h1 className="text-5xl font-bold mb-2">AquaCredZZ</h1>
             <p className="text-xl opacity-90">Blue Carbon MRV Platform</p>
           </div>
 
@@ -196,7 +196,7 @@ export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
             <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-full flex items-center justify-center mx-auto mb-4">
               <Waves className="h-8 w-8 text-white" />
             </div>
-            <h1 className="text-2xl font-bold text-foreground mb-2">Welcome to OceanGuard</h1>
+            <h1 className="text-2xl font-bold text-foreground mb-2">Welcome to AquaCredZZ</h1>
             <p className="text-muted-foreground">Secure login to start contributing</p>
           </div>
 
@@ -311,7 +311,7 @@ export function OnboardingFlow({ onComplete }: OnboardingFlowProps) {
           {/* Footer */}
           <div className="mt-6 text-center">
             <p className="text-xs text-muted-foreground">
-              New to OceanGuard?{' '}
+              New to AquaCredZZ?{' '}
               <button className="text-primary hover:underline">
                 Create Account
               </button>

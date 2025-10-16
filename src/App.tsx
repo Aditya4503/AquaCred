@@ -29,7 +29,7 @@ export default function App() {
                   <Link className="h-3 w-3 text-orange-500 absolute bottom-0 left-0" />
                 </div>
                 <div>
-                  <h1 className="text-xl font-semibold text-foreground">AquaCred</h1>
+                  <h1 className="text-xl font-semibold text-foreground">AquaCredZ</h1>
                   <p className="text-sm text-muted-foreground">National Blue Carbon Registry</p>
                 </div>
               </div>
@@ -116,7 +116,7 @@ export default function App() {
                 <Link className="h-6 w-6 text-orange-500 absolute bottom-0 left-0 bg-white rounded-full p-1" />
               </div>
             </div>
-            <h1 className="text-6xl font-bold text-slate-800 mb-4">AquaCred</h1>
+            <h1 className="text-6xl font-bold text-slate-800 mb-4">AquaCredZ</h1>
             <p className="text-2xl text-slate-600 mb-2">National Blue Carbon Registry & Data Sovereignty Platform</p>
             <p className="text-lg text-slate-500">Your Data, Your Asset • Powering Restoration with Every Upload</p>
           </div>
@@ -168,7 +168,7 @@ export default function App() {
 
           {/* Interface Selection */}
           <div className="space-y-4">
-            <h2 className="text-2xl font-semibold text-slate-700 mb-6">Explore AquaCred Interfaces</h2>
+            <h2 className="text-2xl font-semibold text-slate-700 mb-6">Explore AquaCredZ Interfaces</h2>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button 
                 size="lg" 
